@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first introduction to HTML. It is about Recipes of food and i am really enthuse to begin this project as i will demonstrate my skill set on how to write html language using the appropriate tags like heading, paragraph, anchor, image, etc.
